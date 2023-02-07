@@ -1,0 +1,17 @@
+/* global */
+*{
+    margin: 0;padding: 0;
+}
+html, body{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 62.5%;
+}
+
+/* header  */
+.header__top {
+    background-color: #ff4f81;
+    font-size: 1.4rem;
+}
+.header__top a{
+    text-decoration: none;
+}
